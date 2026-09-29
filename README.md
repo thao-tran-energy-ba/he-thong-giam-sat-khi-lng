@@ -263,7 +263,7 @@ Sử dụng công cụ PivotTable tổng hợp 1.000 dòng dữ liệu thô đ�
 ![PivotTable Summary Report](images/bao-cao-pivottable-excel.png)
 
 **Ghi chú dữ liệu thực nghiệm:**
-Toàn bộ tập dữ liệu thô 1.000 bản ghi SCADA cùng mô hình tính toán tự động và bảng PivotTable đối soát chi tiết được lưu trữ tại file Excel đính kèm xem tại Project Documentation Hub.
+Toàn bộ tập dữ liệu thô 1.000 bản ghi SCADA cùng mô hình tính toán tự động và bảng PivotTable đối soát chi tiết được lưu trữ tại file Excel[📥 Bấm vào đây để tải File Excel dữ liệu đối soát 1,000 dòng](./NSRP_LNG_Adhoc_Commercial_Analysis.xlsx) đính kèm xem tại Project Documentation Hub.
 
 ---
 
