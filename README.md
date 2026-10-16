@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **Họ và tên:** | Trần Thị Thảo |
 | **Vị trí ứng tuyển mục tiêu:** | Chuyên viên Phân tích Nghiệp vụ Thương mại & Vận hành (Khối LNG) |
-| **Email liên hệ:** | tranthithao07012006@gmail.com |
+| **Email liên hệ:** | tttphuongthao71@gmail.com |
 | **Số điện thoại:** | 0974271056 |
 | **Trường:** | Trường Đại học Mỏ-Địa chất |
 | **Ngành học:** | Chuyên ngành Kỹ thuật khí thiên nhiên |
