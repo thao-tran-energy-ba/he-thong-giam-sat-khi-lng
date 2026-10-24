@@ -156,7 +156,7 @@ Xây dựng Hệ thống giám sát vận hành, cảnh báo an toàn & Tối ư
 ## 1. TỔNG QUAN & MỤC TIÊU MÀN HÌNH
 * **Tên giao diện:** Bảng điều khiển Thất thoát Thương mại (UI-FIN-01).
 * **Người sử dụng:** Kế toán Thương mại / Quản lý Trạm.
-* **Mục tiêu:** Trực quan hóa sai lệch giữa hợp đồng ($E_{\text{HĐ}}$) và thực tế ($E_{\text{TT}}$) theo Bài toán 3 (BRD-FIN-01), tự động tính phạt $L_{\text{penalty}}$ và hỗ trợ xuất báo cáo đối soát.
+* **Mục tiêu:** Trực quan hóa sai lệch giữa hợp đồng (E_HD) và thực tế (E_TT) theo Bài toán 3 (BRD-FIN-01), tự động tính phạt L_penalty và hỗ trợ xuất báo cáo đối soát.
 
 ## 2. PHÁC THẢO GIAO DIỆN 
 <img width="946" height="687" alt="bao-cao-that-thoat-thuong-mai" src="https://github.com/user-attachments/assets/0d30f146-e096-4601-a929-d0596ca67838" />
