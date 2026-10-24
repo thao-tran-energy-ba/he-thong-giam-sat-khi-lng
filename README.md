@@ -159,7 +159,8 @@ Xây dựng Hệ thống giám sát vận hành, cảnh báo an toàn & Tối ư
 * **Mục tiêu:** Trực quan hóa sai lệch giữa hợp đồng ($E_{\text{HĐ}}$) và thực tế ($E_{\text{TT}}$) theo Bài toán 3 (BRD-FIN-01), tự động tính phạt $L_{\text{penalty}}$ và hỗ trợ xuất báo cáo đối soát.
 
 ## 2. PHÁC THẢO GIAO DIỆN 
-![Figure 4: Wireframe Màn hình Báo cáo Thất thoát Thương mại & Đối soát Hợp đồng NSRP LNG](images/doi-soat-thuong-mai.png)
+<img width="946" height="687" alt="bao-cao-that-thoat-thuong-mai" src="https://github.com/user-attachments/assets/0d30f146-e096-4601-a929-d0596ca67838" />
+
 *Figure 4: Wireframe Màn hình Báo cáo Thất thoát Thương mại & Đối soát Hợp đồng NSRP LNG*
 
 ## 3. ĐẶC TẢ CHI TIẾT CÁC THÀNH PHẦN GIAO DIỆN 
